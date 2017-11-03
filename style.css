@@ -1,0 +1,177 @@
+
+crimson sky #CF6766
+Indigo #30415D
+Ultramarine #031424
+Light blue #8EAEBD
+light grey? #f5f5f5
+
+
+body,html {
+	
+	background-color: #f5f5f5;
+	text-align:center;
+	margin: 0;
+}	
+
+
+.map1 {
+  position:absolute;
+  top:205%;
+  width:50%;
+  left:0;
+  height:95%;
+  overflow-y:hidden;
+}
+
+h1 {
+	text-align: center;
+	color:#031424;
+}
+
+h2 {
+	text-indent:50px;
+	line-height: 0px;
+	color:#CF6766;
+}
+
+.bgimg1 {
+  background-color:#F0F8FF;
+	left:0;
+	top:0;
+	position: absolute;
+	opacity: 0.9;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	z-index: 0;
+}
+
+.caption {
+	position: absolute;
+	left: 0;
+	top: 38%;
+	width: 100%;
+	text-align: center;
+	color: #031424;
+	z-index: 1;
+	font-size:50px;
+	font-family: "Lato", sans-serif;
+}
+
+.caption span.border {
+	background-color: #f5f5f5;
+	padding:20px;
+	font-size:40px;
+	letter-spacing: 15px;
+}
+
+.caption2 {
+	position: absolute;
+	left:25%;
+	top: 111%;
+	width: 50%;
+	text-align: center;
+	color: #031424;
+	z-index: 1;
+	font-size:16px;
+	font-family: "Lato", sans-serif;
+	line-height: 25px;
+}
+
+.caption2-1 {
+  position: absolute;
+  top: 100%;
+  left:0;
+  width: 100%;
+  text-align: center;
+  color: #031424;
+  z-index: 1;
+  font-family: "Lato", sans-serif;
+  background-color: #f5f5f5;
+  font-size:24px;
+  letter-spacing: 10px;
+  padding-top:1%;
+  padding-bottom:1%;
+}
+
+
+.img2 {
+  position: absolute;
+  left:50%;
+  top: 135%;
+  width:100%;
+}
+
+
+.caption3-1 {
+  position: absolute;
+  left: 0;
+  top: 200%;
+  width: 100%;
+  text-align: center;
+  color: #031424;
+  z-index: 1;
+  font-family: "Lato", sans-serif;
+  background-color: #f5f5f5;
+  font-size:24px;
+  letter-spacing: 10px;
+  padding-top:1%;
+  padding-bottom:1%;
+}
+
+
+
+
+.caption4 {
+  position: absolute;
+  left:55%;
+  top: 210%;
+  width: 40%;
+  height:90%;
+  text-align: center;
+  color: #031424;
+  z-index: 1;
+  font-size:16px;
+  font-family: "Lato", sans-serif;
+  line-height: 25px;
+  overflow:hidden;
+}
+
+.img3 {
+  position: absolute;
+  left:0%;
+  top:310%;
+}
+.img4 {
+  position: absolute;
+  left:75%;
+  top:310%;
+}
+.caption4-1 {
+  position: absolute;
+  left: 0;
+  top: 300%;
+  width: 100%;
+  text-align: center;
+  color: #031424;
+  z-index: 1;
+  font-family: "Lato", sans-serif;
+  background-color: #f5f5f5;
+  font-size:24px;
+  letter-spacing: 10px;
+  padding-top:1%;
+  padding-bottom:1%;
+}
+
+.caption5 {
+  position: absolute;
+  left:43%;
+  top: 310%;
+  width: 25%;
+  text-align: center;
+  color: #031424;
+  z-index: 1;
+  font-size:16px;
+  font-family: "Lato", sans-serif;
+  line-height: 35px;
+}
